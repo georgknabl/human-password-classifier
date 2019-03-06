@@ -29,7 +29,7 @@ For later iOS usage:
 
 Create virtual environment named "ml-passwords":
 
-`$ conda create -n ml-passwords anaconda`
+`$ conda create -n ml-passwords python=3.6 anaconda`
 
 If you need CoreML support use:
 
